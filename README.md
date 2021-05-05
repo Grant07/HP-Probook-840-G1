@@ -1,4 +1,4 @@
-# <h1>HP Probook 840 G1</h1>
+# <h1>HP Probook 840 G1</h1> <h3>Haswell</h3>
  Big Sur EFI with support for Intel Wifi Cards
  Updated to OpenCore 0.6.9
  
