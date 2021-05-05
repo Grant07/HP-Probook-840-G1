@@ -9,7 +9,7 @@
  - iMessage & Facetime
  - Camera
  - USB Ports (USB2 & USB3)
- - Fn Keys Switches (Brightness & Audio Changes)
+ - Fn Keys Switches (Brightness & Audio Controls)
 
 **What Does not Work?**
 - Sleep
